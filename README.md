@@ -1,4 +1,4 @@
-Welcome to My React App! This application fetches and displays real-time news headlines from an external API using React.
+This application fetches and displays real-time news headlines from an external API using React.
 
 ## Getting Started
 
@@ -15,11 +15,11 @@ To get started with this application, follow the steps below:
    ```git clone https://github.com/your-username/my-react-app.git```
 2. Navigate to the project directory:
 
-```cd my-react-app```
+   ```cd my-react-app```
 
 3. Install dependencies using npm:
 
-```npm install``
+   ```npm install```
 
 ### Configuration
 Before running the application, you need to obtain an API key from the News API website:
